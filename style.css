@@ -1,0 +1,68 @@
+body{
+    text-align: center;
+    color : purple;
+    text-align : center;
+     background-color:lightblue;
+  } 
+  img
+  {
+    border: 10px solid lightgrey;
+    border-radius: 20px;
+     width:350px;
+   
+  }
+  h3
+  {
+    color:red;
+    font-size: 20px;
+    
+  }
+  a
+  {
+    font-size: 20px;
+    border-style: solid;
+    border-color: darkblue;
+    border-width: 2px;
+    padding: 10px;  
+  }
+  #pet_name
+  {
+    color:green;
+  }
+  .fact1
+  {
+    color:darkblue;
+    /*border:/* add border width in px add single solid line and give color to border*/; 
+    /*background-color: /*add background color*/;
+    padding:10px;
+    /*border-radius: /*add border-radius in px*/;
+  }
+  h1
+  {
+    color:pink;
+  }
+  #NAME
+  {
+    color:blue;
+  }
+  p
+  {
+    color:gold;
+    font-size:17px
+  }
+  .fact2
+  {
+    color:white;
+  }
+  .fact3
+  {
+    color:purple;
+  }
+  .fact4
+  {
+    color:darkgreen;
+  }
+  .fact5
+  {
+    color:black;
+  }
